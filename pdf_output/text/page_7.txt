@@ -1,0 +1,43 @@
+Model Bat 8.2
+Capacity
+Voltage
+Current
+IP Grade
+BMS
+Life Cycling (100% DOD, 25°C)
+Operating Temperature
+Storage Temperature
+Warranty BTT
+Standard
+Weight
+Robust Multi Point Monitoring BMS Pre Installed
+10 Years
+UN 38.3, IEC61000
+-30°C - 60°C
+Unlimited Cycles / 10 Years
+8.2KWh / 160Ah
+51.2VDC
+85A
+IP65
+94 KG
+Operating Voltage Range
+Maximum Charging Voltage
+Maximum Charging / Discharging Current
+85A / 85A
+Network Interface
+RS485
+Communication Protocols
+Modbus
+Advantages
+Stackable, BMS Upgradeable, IP65
+59V DC
+Electrical Parameters
+43.2 - 58.5V DC
+!
+STATUS
+480mm
+620mm
+198mm
+Technology
+LiFePO4 Cell
+-10°C - 55°C

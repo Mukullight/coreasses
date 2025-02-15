@@ -1,0 +1,22 @@
+"Hybrid Inverter",""
+"Input Data (DC)","Giv-HY 3.6
+Giv-HY 5.0"
+"Max DC Power","6500W
+4500W"
+"Max DC Voltage","580V DC"
+"Start Voltage","140V DC Voc- 120V DC Vmpp"
+"DC Nominal Voltage","360V"
+"PV Voltage Range","100V - 600V"
+"MPPT Voltage Range","120V - 550V"
+"Max Input Current Per String","11A / 11A"
+"Number Of Independent MPPT Input","2"
+"Output Data (AC)",""
+"Nominal AC Output Power","3680W
+5000W"
+"Max AC Apparent Power","3680VA
+5000VA"
+"Max Output Current","16.4A
+21.7A"
+"AC Range","180V- 280V AC"
+"AC Grid Frequency Range","50Hz ±5Hz"
+"Power Factor At Rated Power","1"

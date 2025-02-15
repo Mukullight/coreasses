@@ -1,0 +1,92 @@
+Output Data (AC)
+Nominal AC Output Power
+3000W
+Max AC Apparent Power
+3000VA
+Max Output Current
+15A
+AC Nominal Voltage Range
+202V - 262V
+AC Grid Frequency Range
+Power Factor At Rate Power
+1
+Power Factor
+0.9 Leading...0.9 Lagging
+THDI
+<3%
+AC Connection
+Single Phase (multiple units can be installed for 3 Phase)
+Battery Power
+Nominal Power
+3000W
+Max Charging/Discharging Current
+60A / 60A
+Backup Output
+Output Rated Power
+3000VA
+Peak Power
+3600VA, for 10s
+Output Voltage
+230Vac ±2%, 50Hz
+(60Hz Optional) ±0.2&, THDV<3% (Linear Load)
+Eﬃciency
+Max Eﬃciency
+97.10%
+Euro - ETA
+96.5%
+Protection Devices
+Yes
+Yes
+Yes
+Yes
+Output Over Current Protection
+Output Over voltage Protection-Varistor
+Ground Fault Monitoring
+Grid Monitoring
+Max Inrush Current
+30A Peak
+Max Output Fault Current
+40A Peak
+Max Output Overcurrent Protection
+25A RMS
+All Pole Sensitive Leakage Current Monitoring
+Yes
+Weight
+Operating Temperature Range
+Consumption: Operating (Standby) / Night
+<5W / < 0.5W
+Topology
+Transformerless
+Cooling Concept
+Natural
+Environmental Protection Rating
+IP65
+General Data
+-25°C to 60°C, with derating above 45°C
+19kg
+Features
+Battery Connection
+AC Connection
+Display
+Interfaces: Wi-Fi/USB/GPRS/RS485/4G
+Warranty:
+Screw Terminal
+Screw Terminal
+LED
+Opt / Yes / Opt / Yes / Opt
+5 years standard / 10 years for E.ON customers
+Certiﬁcates And Approvals
+AA 4777, VDE-AR-N4105, VDE0126, G83, G98, IEC62109-1-2, IEC62040, EN61000-6-2,
+EN61000-6-3, EN50438, G100
+BATTERY
+UTILITY
+LOAD
+480mm
+260mm
+290mm
+AC Coupled
+50Hz ± 5Hz
+PV Monitoring
+CT / Meter
+Grid Monitoring
+Meter

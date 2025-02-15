@@ -1,0 +1,16 @@
+{
+  "Product Name": "Giv Energy Residential Solar Solutions",
+  "Manufacturer": "Giv Energy",
+  "Model Number": "GE190-2-MW-S/PV",
+  "Capacity (AC)": "190 kW",
+  "Efficiency (STC)": "19.2%",
+  "Maximum System Voltage (DC)": "1500 V",
+  "Module Dimensions (L x W x H)": "[7836 mm x 1455 mm x 33 mm]",
+  "Module Weight (per module)": "20 kg",
+  "Number of Modules per String": "60",
+  "Inverter Type": "Central Inverter",
+  "Inverter Model": "GE-INV-190KW",
+  "Mounting System Type": "Roof Mounted",
+  "Warranty (Module)": "25 years",
+  "Warranty (Inverter)": "10 years or 40,000 operation hours"
+}

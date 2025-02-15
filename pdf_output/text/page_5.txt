@@ -1,0 +1,48 @@
+Model Bat 2.6
+Capacity
+2.6kWh / 51Ah
+Voltage
+51.2VDC
+Current
+IP Grade
+IP65
+BMS
+Robust Multi Point Monitoring BMS Pre Installed
+Life Cycling (90% DOD, 25°C)
+10 Years
+Operating Temperature
+Storage Temperature
+Warranty BTT
+26MWh / 10 Years
+Standard
+UN 38.3, IEC61000
+Weight
+32kg
+Electrical Parameters
+Operating Voltage Range
+43.2V - 58.5V DC
+Maximum Charging Voltage 
+ 
+ 
+ 
+ 
+ 59V DC
+Maximum Charging / Discharging Current
+30A / 30A
+Network Interface
+RS485
+Communication Protocols
+Modbus
+Advantages
+Stackable, BMS Upgradeable, IP65
+2.6
+!
+STATUS
+369mm
+480mm
+220mm
+-30°C - 60°C
+Technology
+LiFePO4 Cell
+30A
+-10°C - 55°C
